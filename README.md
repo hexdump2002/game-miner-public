@@ -53,7 +53,8 @@ Steam client when closed writes a bunch of configuration files to disk. It doesn
 
 1) Install a virtual keyboard like Core Keyboard that is always active.
 2) Open steam client, then open game miner and o all the changes you need and before saving your changes exit steam. Now you are able to save without any data loss and leveraging the steam keyboard.
-3) Usea bluetooh keyboard.
+3) Use a bluetooh keyboard.
+4) Use anydesk that can be installed through discover and use your deck from the comfort of your computer.
 
 
 Game miner has been developed by Hexdump 2023
