@@ -27,7 +27,7 @@ Game Miner supports multi user so, if more than one steam account is used in you
 
 ![Game Manager](/site_images/navigation_and_game_manager_explanation.png?raw=true "Game manager")
 
-Every row in the game manager represents a folder in your game library. They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a menaful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
+Every row in the game manager represents a folder in your game library. They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
 
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
 
