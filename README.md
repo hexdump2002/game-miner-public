@@ -59,4 +59,4 @@ Steam client when closed writes a bunch of configuration files to disk. It doesn
 
 Game miner has been developed by Hexdump 2023
 
-Follow me on twitter http://www.twitter.com/_hexdump_
+Follow me on twitter https://twitter.com/_HexDump_
