@@ -19,31 +19,41 @@ Game miner has different tools aimed to very specific tasks. Right now it has a 
 
 ### Game Manager and Navigation tools
 
+Use the Game Manager tool to add, remove and edit the games you want to see in your steam library.
+
+The game manager tool also provides an overview of each game status (represented by colored squares), storage stats and also provides diffent actions to apply on the physical folder that holds the game like deleting or renaming.
+
+Game Miner supports multi user so, if more than one steam account is used in your device, you will be able to switch among them clicking on the avatar picture. Settings and configurations are saved by user to avoid configuration clashing.
+
 ![Game Manager](/site_images/navigation_and_game_manager_explanation.png?raw=true "Game manager")
+
+Every row in the game manager represents a folder in your game library. They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a menaful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
+
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
 
 
 ### Data Manager tool
+
+The data manager tool is where you manage all the data that your steam and non steam games store in your hard drive. You can delete game data in batches or one by one.
+
+This tool will also show a high level view of how much storage is taken by each game and by cache size and compat tool types. This way, you will be able to track how big your game data is.
 
 ![Data Manager](/site_images/data_manager_explanation.png?raw=true "Data manager")
 
 
 ### Settings
 
+All your seetings are managed in this screen. Settings take place when saved so, remember to save after you have modified them.
+
 ![Settings](/site_images/settings_explanation.png?raw=true "Settings")
 
+### Issues and Limitations
 
-Game is 
+Steam client when closed writes a bunch of configuration files to disk. It doesn't matter if the configurations have been modified or not and this leads to changes being lost if you use game miner while Steam is open. So, when game miner is launched it closes the steam client automatically to avoid any data loss. But, this brings another problem, when steam client is not active, virtual keyboard won't appear so you won't be able to use all game miner functionalities. Mainly renaming, searches, etc. There are some options to avoid this caveats:
 
-## Getting Started
+1) Install a virtual keyboard like Core Keyboard that is always active.
+2) Open steam client, then open game miner and o all the changes you need and before saving your changes exit steam. Now you are able to save without any data loss and leveraging the steam keyboard.
+3) Usea bluetooh keyboard.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Game miner has been developed by Hexdump 2023
