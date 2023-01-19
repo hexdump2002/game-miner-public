@@ -49,7 +49,7 @@ All your seetings are managed in this screen. Settings take place when saved so,
 
 ### Issues and Limitations
 
-Steam client when closed writes a bunch of configuration files to disk. It doesn't matter if the configurations have been modified or not and this leads to changes being lost if you use game miner while Steam is open. So, when game miner is launched it closes the steam client automatically to avoid any data loss. But, this brings another problem, when steam client is not active, virtual keyboard won't appear so you won't be able to use all game miner functionalities. Mainly renaming, searches, etc. There are some options to avoid this caveats:
+Steam client when closed writes a bunch of configuration files to disk. It doesn't matter if the configurations have been modified or not and this leads to changes being lost if you use game miner while Steam is open. So, when game miner is launched it closes the steam client automatically to avoid any data loss. But, this brings another problem, when steam client is not active, virtual keyboard won't appear so you won't be able to use all game miner functionalities. Mainly renaming, searches, etc. There are some options to avoid these caveats:
 
 1) Install a virtual keyboard like Core Keyboard that is always active.
 2) Open steam client, then open game miner and o all the changes you need and before saving your changes exit steam. Now you are able to save without any data loss and leveraging the steam keyboard.
