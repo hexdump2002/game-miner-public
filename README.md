@@ -1,5 +1,5 @@
 <p align="center">
-![Game Miner](/site_images/logo.png?raw=true "Game Miner Logo")
+<img src="/site_images/logo.png?" alt="Game miner logo">
 </p>
 
 # What is Game Miner?
