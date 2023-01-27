@@ -1,4 +1,6 @@
-<p align="center">![Game Miner](/site_images/logo.png?raw=true "Game Miner Logo")</p>
+<p align="center">
+  ![Game Miner](/site_images/logo.png?raw=true "Game Miner Logo")
+</p>
 
 # What is Game Miner?
 Game Miner is a set of tools that aliviates the burden of managing and adding non steam games to the steam client. It manages a list of given folders that from now on we will call "The user game library" holding non steam games or any other type of external application that the user wants to add and launch from the steam client.
