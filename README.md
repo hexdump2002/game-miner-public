@@ -13,7 +13,11 @@ Game Miner was created with the steam deck in mind but should work on any linux 
 # Key Game Miner functionalities?
 - Support for multiple steam user accounts
 - Per user game library and configuration settings
+- Add non steam games in seconds instead of minutes and export their configuration for later use
 - Discover steam shortcut problems like broken links or missing compatibility tools instantly
+- Share your application or games with other game miner users to use them with 0 configuration. Just add them to the library and save ;)
+- No more unknown shadercache or compatdata origins. If you use Game miner to add all your non steam games, it will keep track of all games you installed and its data. You won't ever again loose track of any game data.
+- 
 
 
 
