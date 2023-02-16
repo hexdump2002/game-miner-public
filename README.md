@@ -10,13 +10,18 @@ On the other hand, Game Miner provides the needed tools to manage non steam appl
 
 Game Miner was created with the steam deck in mind but should work on any linux distribution. If there is enough interest a windows version could be released in the future.
 
+# Who is behing Game Miner?
+Game Miner has been developed by me, Hexdump. You can follow me on twitter: https://twitter.com/_HexDump_ if you want to get news about Game Miner or you are interested in development in general or game development in particular.
+
 # Key Game Miner functionalities?
 - Slick user interface.
 - Support for multiple steam user accounts
 - Per user game library and configuration settings
-- Add non steam games in seconds instead of minutes and export their configuration for later use
+- Add non steam games in seconds instead of minutes and export their configuration for later use (Artwork included)
 - Discover steam shortcut problems like broken links or missing compatibility tools instantly
 - Share your application or games with other game miner users to use them with 0 configuration. Just add them to the library and save ;)
+- Manage your games in bulk of any size with the multi selection mode
+- Select the way you want your games list view. From full banner images to the most simplistic icon list.
 - Manage shadercache and compatdata folders in batch or individually
 - No more unknown shadercache or compatdata origins. If you use Game miner to add all your non steam games, it will keep track of all games you installed and its data. You won't ever again loose track of any game data.
 - And much more...
@@ -24,7 +29,7 @@ Game Miner was created with the steam deck in mind but should work on any linux 
 
 # How does Game Miner looks like?
 
-Game miner has different tools aimed to very specific tasks. Right now it has a Game Manager, a Game Data Manager and a summary tool. The sumary tool is not yet ready for release but will be dropped shortly. 
+Game miner has different tools aimed to very specific tasks. Right now it has a Game Manager and a Game Data Managerl. 
 
 ![Game Manager](/site_images/game_manager.png?raw=true "Game manager")
 ![Game Data Manager](/site_images/game_data_manager.png?raw=true "Game data manager")
@@ -36,15 +41,17 @@ Game miner has different tools aimed to very specific tasks. Right now it has a 
 
 ### Game Manager and Navigation tools
 
-Use the Game Manager tool to add, remove and edit the games you want to see in your steam library.
+Use the Game Manager tool to add, remove and edit the games you want to show in your steam library.
 
 The game manager tool also provides an overview of each game status (represented by colored squares), storage stats and also provides diffent actions to apply on the physical folder that holds the game like deleting or renaming.
+
+Each action can be applied to one or a group of games. From export configurations to delete unwanted games from your library.
 
 Game Miner supports multi user so, if more than one steam account is used in your device, you will be able to switch among them clicking on the avatar picture. Settings and configurations are saved by user to avoid configuration clashing.
 
 ![Game Manager](/site_images/navigation_and_game_manager_explanation.png?raw=true "Game manager")
 
-Every row in the game manager represents a folder in your game library. They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
+Every row in the game manager represents a folder in your game library or an external executable (blue squared color). They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
 
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
 
