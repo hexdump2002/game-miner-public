@@ -13,6 +13,8 @@ Game Miner was created with the steam deck in mind but should work on any linux 
 # Who is behind Game Miner?
 Game Miner has been developed by me, Hexdump. You can follow me on twitter: https://twitter.com/_HexDump_ if you want to get news about Game Miner or you are interested in development in general or game development in particular.
 
+If you want to get in contact with other Game Miner users and download the latest version (there's no yet a github release) make your way to this telegram channel: https://t.me/+5XEVcUO8QKk5MWRk
+
 # Key Game Miner functionalities?
 - Slick user interface.
 - Support for multiple steam user accounts
