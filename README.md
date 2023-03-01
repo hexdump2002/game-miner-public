@@ -36,7 +36,7 @@ Game Miner doesn't need to be installed. It is just a portable program that can 
 
 To make the app executable you can ussually right click the appimage and in file properties under permissions there should be a switch or checkbox to make it executable. A second option is to open a terminal window and type "chmod +x ./GameMiner.AppImage" in the folder where the AppImage was stored. This will make the AppImage executable too.
 
-Here are two pictures showing how Fedora and SteamOS/Halo OS present this option:
+Here are two pictures showing how Fedora and SteamOS/Holo OS present this option:
 
 ![Fedora](/site_images/fedora_set_as_executable.png?raw=true "Fedora")
 
