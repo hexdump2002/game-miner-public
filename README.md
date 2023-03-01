@@ -93,9 +93,13 @@ All your seetings are managed in this screen. Settings take place when saved so,
 Options are splitted in different sectios for easy finding.
 
 In the Search path section you have to add all the paths containing your non steam games. All the games found in these paths will become your UGL.
+
 In he Game Manager section you will find some options related to the Game Manager. You can defien here the default view for it and different processing options when a game is added in the game manager. As an example you can remove the extension of the game or make all game lower case or upper case. It saves a ton of time when editing game names.
+
 In the General options section you will be able to define the default compat tool to be added when an executable is added and how many backup files you want. Game miner backups important files when saving to make sure nothing is lost. We recommend to set it to the max.
+
 The desktop App Icon Options section is provided for you to add or remove the app icon shortcuts. When game miner boots for the first time it will create the needed app icons (To make it visible in the tool bar, etc.). If Game Miner AppImage is then move these icons won't show because the link between the icons and the AppImage is lost. Remove and then add icons using these buttons to make them back.
+
 
 ### Issues and Limitations
 
