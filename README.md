@@ -31,6 +31,13 @@ If you want to get in contact with other Game Miner users and share your suggest
 - Smart closing/opening of steam client to do not loose any data when saving.
 - And much more...
 
+# How do I install Game Miner?
+Game Miner doesn't need to be installed. It is just a portable program that can be executed from any folder you like. So, the only thing you have to do is download the latest release, make it executable and run it. Done!
+
+To make the app executable you can ussually right click the appimage and in file properties under permissions there should be a switch or checkbox to make it executable. A second option is to open a terminal window and type "chmod +x ./GameMiner.AppImage" in the folder where the AppImage was stored. This will make the AppImage executable too.
+
+Here are two pictures showing how Fedora and SteamOS/Halo OS present this option:
+
 
 # How does Game Miner looks like?
 
