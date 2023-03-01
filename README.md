@@ -42,7 +42,7 @@ Here are two pictures showing how Fedora and SteamOS/Holo OS present this option
 <br/><br/>
 __Warning__: Game Miner creates app icons when it runs for the first time. If you move the AppImage to another folder afterwards, you need to recreate the icons link. To do this just open the Game Miner settings page and click on "Remove app icons" and then "Add app icons". This will clean old icons and create new ones for the new location.
 <br/><br/>
-__Warning__: Game Miner needs Steam client to be closed while running so you can't add it to game mode. However, I you only use the Cleaner tool you could use it without problem in game mode.
+__Warning__: Game Miner needs the Steam client to be closed while running so you can't add it to game mode. However, I you only use the Cleaner tool you could use it without problem in game mode.
 
 ![Fedora](/site_images/add_remove_icons.png?raw=true "Fedora")
 
@@ -60,17 +60,17 @@ Game miner has different tools aimed to very specific tasks. Right now it has a 
 
 ### Game Manager and Navigation tools
 
-Use the Game Manager tool to add, remove and edit the games you want to show in your steam library.
+Use the Game Manager tool to add, remove and edit the games you want to show in your steam library. You can even export working configurations to be shared with friends or just to have a healthy non steam game library stored wherever you want ready to be just imported and played.
 
-The game manager tool also provides an overview of each game status (represented by colored squares), storage stats and also provides diffent actions to apply on the physical folder that holds the game like deleting or renaming.
+The game manager tool also provides an overview of each game status (represented by colored squares) and differnt game stats.
 
-Each action can be applied to one or a group of games. From export configurations to delete unwanted games from your library.
+You can apply different actions to just a game (Through the contextual menu hidden in the little 3 dots icon on the right of each game entry) or to a set of them. These two modes are called single mode and multi selection mode. You can switch between them through the multi selection switch in the top bar.
 
-Game Miner supports multi user so, if more than one steam account is used in your device, you will be able to switch among them clicking on the avatar picture. Settings and configurations are saved by user to avoid configuration clashing.
+Game Miner supports multi user so, if more than one steam account is used in your device, you will be able to switch among them by clicking on the avatar picture. Settings and configurations are saved by user to avoid configuration clashing.
 
 ![Game Manager](/site_images/navigation_and_game_manager_explanation.png?raw=true "Game manager")
 
-Every row in the game manager represents a folder in your game library or an external executable (blue squared color). They can be expadnded and will show differnt executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default proton is selected in settings, it will be assigned as soon as the executable is added.
+Every row in the game manager represents a folder in your game library or an external executable (blue squared color). They can be expanded and will show different executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default compat tool is selected in settings, it will be assigned as soon as the executable is added.
 
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
 
