@@ -50,9 +50,17 @@ __Warning__: Game Miner needs the Steam client to be closed while running so you
 
 Game miner has different tools aimed to very specific tasks. Right now it has a Game Manager and a Game Data Managerl. 
 
+Game Manager
+<br/>
 ![Game Manager](/site_images/game_manager.png?raw=true "Game manager")
+Game Data Manager
+<br/>
 ![Game Data Manager](/site_images/game_data_manager.png?raw=true "Game data manager")
+Settings
+<br/>
 ![Settings](/site_images/settings.png?raw=true "Settings")
+Change user Screen
+<br/>
 ![User Change](/site_images/change_user.png?raw=true "User change")
 
 # Game Miner tools
@@ -74,8 +82,9 @@ Game Miner in Single Mode
 <br/><br/>
 Game Miner in Multi Selection Mode
 ![Game Manager](/site_images/game_manager_multiselection.png?raw=true "Game manager Single Mode")
-<br/>
+<br/><br/>
 Every row in the game manager represents a folder in your game library or an external executable (blue squared color). They can be expanded and will show different executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default compat tool is selected in settings, it will be assigned as soon as the executable is added.
+<br/>
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
 
 ### Data Manager tool
