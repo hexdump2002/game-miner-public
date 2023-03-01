@@ -128,7 +128,7 @@ Steam client when closed writes a bunch of configuration files to disk. It doesn
 ### Acknowledgements
 
 - AlbertDream: His Steamdeck suffered the initial versions of Game Miner but survivied! Contributed with great suggestions and encouragements
-- Excitecube: Testing is hard and boring. He did it pretty well since the beginning and detected a load of bugs and contribute with great suggestions
+- Excitecube: Testing is hard and boring. He did it pretty well since the beginning and detected a load of bugs and contributed with great suggestions
 - FranjeGueje: Inmense help with all the AppImage packaging and also contributed with great suggestions
 - RubenAntonor: Contributed with great suggestions and encouragements.
 
