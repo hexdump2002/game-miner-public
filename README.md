@@ -75,12 +75,8 @@ Game Miner in Single Mode
 Game Miner in Multi Selection Mode
 ![Game Manager](/site_images/game_manager_multiselection.png?raw=true "Game manager Single Mode")
 <br/>
-![Game Manager](/site_images/navigation_and_game_manager_explanation.png?raw=true "Game manager Single Mode")
-
 Every row in the game manager represents a folder in your game library or an external executable (blue squared color). They can be expanded and will show different executables that can be added to steam. Try to name each executable with a meaningful name if you want to easily find them when you come back to steam. If a default compat tool is selected in settings, it will be assigned as soon as the executable is added.
-
 ![Game Manager](/site_images/game_manager_expanded_explanation.png?raw=true "Game manager")
-
 
 ### Data Manager tool
 
