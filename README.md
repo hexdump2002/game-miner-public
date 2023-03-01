@@ -4,9 +4,9 @@
 <br/><br/>
 
 # What is Game Miner?
-Game Miner is a set of tools that aliviates the burden of managing and adding non steam games to the steam client. It manages a list of given folders that from now on we will call "The user game library" (UGL) holding non steam games or any other type of external application that the user wants to add and launch from the steam client.
+Game Miner is a set of tools that alleviates the burden of managing and adding non steam games to the steam client. It manages a list of given folders that from now on we will call "The user game library" (UGL) holding non steam games or any other type of external application that the user wants to add and launch from the steam client.
 
-On the other hand, Game Miner provides the needed tools to manage non steam application data like compatdata, haderdata and artwork folders that are not deleted when the game/application is removed from the steam client.
+On the other hand, Game Miner provides the needed tools to manage non steam application data like compatdata, shaderdata and artwork folders that are not deleted when the game/application is removed from the steam client.
 
 Game Miner was created with the steam deck in mind but should work on any linux distribution. If there is enough interest a windows version could be released in the future.
 
