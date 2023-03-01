@@ -81,7 +81,7 @@ The data manager tool is where you manage all the data that your steam and non s
 
 This tool will also show a high level view of how much storage is taken by each game and by cache size and compat tool types. This way, you will be able to track how big your game data is.
 
-![Data Manager](/site_images/data_manager_explanation.png?raw=true "Data manager")
+![Data Manager](/site_images/game_data_manager_explanation.png?raw=true "Data manager")
 
 
 ### Settings
