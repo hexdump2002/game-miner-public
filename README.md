@@ -39,8 +39,8 @@ To make the app image executable you can ussually right click the appimage file 
 Here are two pictures showing how Fedora and SteamOS/Holo OS present this option:
 
 ![Fedora](/site_images/fedora_set_as_executable.png?raw=true "Fedora")
-
-Warning: Game Miner creates app icons when it runs for the first time. If you move he AppImage to another folder later you need to recreate the icons link. To do this just open the Game Miner settings page and click on "Remove app icons" and then "Add app icons". This will clean old icons and create new ones for the new location.
+<br/><br/>
+__Warning__: Game Miner creates app icons when it runs for the first time. If you move the AppImage to another folder afterwards, you need to recreate the icons link. To do this just open the Game Miner settings page and click on "Remove app icons" and then "Add app icons". This will clean old icons and create new ones for the new location.
 
 ![Fedora](/site_images/add_remove_icons.png?raw=true "Fedora")
 
