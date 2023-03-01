@@ -17,7 +17,8 @@ Game Miner has been developed by me, Hexdump. You can follow me on [Twitter](htt
 If you want to get in contact with other Game Miner users and share your suggestions, doubts or opinions you can make your way into the official Telegram channel: https://t.me/+5XEVcUO8QKk5MWRk. Main language is spanish but we welcome any other users that speak english.
 
 # Are there any tutorials about how to use Game Miner?
-Yes, it is in spanish but has subtitles for a lot of other languages and can be followed easily. The great TTconT did the tutorial and you can find it on youtube at https://youtu.be/66hIRhu2rD4 
+Yes, it is in spanish but has subtitles for a lot of other languages and can be followed easily. The great TTconT did the tutorial and you can find here!
+[![Watch the video](/site_images/tt_cont_video_preview.png)](https://youtu.be/66hIRhu2rD4) 
 
 # Key Game Miner functionalities?
 - Slick user interface.
