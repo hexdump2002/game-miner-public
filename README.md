@@ -4,28 +4,31 @@
 <br/><br/>
 
 # What is Game Miner?
-Game Miner is a set of tools that aliviates the burden of managing and adding non steam games to the steam client. It manages a list of given folders that from now on we will call "The user game library" holding non steam games or any other type of external application that the user wants to add and launch from the steam client.
+Game Miner is a set of tools that aliviates the burden of managing and adding non steam games to the steam client. It manages a list of given folders that from now on we will call "The user game library" (UGL) holding non steam games or any other type of external application that the user wants to add and launch from the steam client.
 
-On the other hand, Game Miner provides the needed tools to manage non steam application data like compatdata and shaderdata folders that are not deleted when the game/application is removed from the steam client.
+On the other hand, Game Miner provides the needed tools to manage non steam application data like compatdata, haderdata and artwork folders that are not deleted when the game/application is removed from the steam client.
 
 Game Miner was created with the steam deck in mind but should work on any linux distribution. If there is enough interest a windows version could be released in the future.
 
 # Who is behind Game Miner?
 Game Miner has been developed by me, Hexdump. You can follow me on twitter: https://twitter.com/_HexDump_ if you want to get news about Game Miner or you are interested in development in general or game development in particular.
 
-If you want to get in contact with other Game Miner users and download the latest version (there's no yet a github release) and a tutorial to get you started make your way to this telegram channel: https://t.me/+5XEVcUO8QKk5MWRk .At this point almost al content is in spanish but we are working in a english guide right now.
+# Community
+If you want to get in contact with other Game Miner users and share your suggestions, doubts or opinions you can make your way into the official Telegram channel: https://t.me/+5XEVcUO8QKk5MWRk. Main language is spanish but we welcome any other users that speak english.
 
 # Key Game Miner functionalities?
 - Slick user interface.
 - Support for multiple steam user accounts
 - Per user game library and configuration settings
-- Add non steam games in seconds instead of minutes and export their configuration for later use (Artwork included)
+- Add non steam games in seconds instead of minutes and export their configurations for later use (Artwork included)
 - Discover steam shortcut problems like broken links or missing compatibility tools instantly
 - Share your application or games with other game miner users to use them with 0 configuration. Just add them to the library and save ;)
 - Manage your games in bulk of any size with the multi selection mode
 - Select the way you want your games list view. From full banner images to the most simplistic icon list.
 - Manage shadercache and compatdata folders in batch or individually
 - No more unknown shadercache or compatdata origins. If you use Game miner to add all your non steam games, it will keep track of all games you installed and its data. You won't ever again loose track of any game data.
+- Advanced filtering to find what you need in the blink of an eye
+- Smart closing/opening of steam client to do not loose any data when saving.
 - And much more...
 
 
