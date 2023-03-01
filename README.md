@@ -11,7 +11,7 @@ On the other hand, Game Miner provides the needed tools to manage non steam appl
 Game Miner was created with the steam deck in mind but should work on any linux distribution. If there is enough interest a windows version could be released in the future.
 
 # Who is behind Game Miner?
-Game Miner has been developed by me, Hexdump. You can follow me on [Twiter](https://www.twitter.com/_HexDump_) if you want to get news about Game Miner or you are interested in development in general or game development in particular.
+Game Miner has been developed by me, Hexdump. You can follow me on [Twitter](https://www.twitter.com/_HexDump_) if you want to get news about Game Miner or you are interested in development in general or game development in particular.
 
 # Community
 If you want to get in contact with other Game Miner users and share your suggestions, doubts or opinions you can make your way into the official Telegram channel: https://t.me/+5XEVcUO8QKk5MWRk. Main language is spanish but we welcome any other users that speak english.
@@ -125,7 +125,14 @@ Steam client when closed writes a bunch of configuration files to disk. It doesn
 3) Use a bluetooh keyboard.
 4) Use anydesk that can be installed through discover and use your deck from the comfort of your computer.
 
+### Acknowledgements
+
+- AlbertDream: His Steamdeck suffered the initial versions of Game Miner but survivied! Contributed with great suggestions and encouragements
+- Excitecube: Testing is hard and boring. He did it pretty well since the beginning and detected a load of bugs and contribute with great suggestions
+- FranjeGueje: Inmense help with all the AppImage packaging and also contributed with great suggestions
+- RubenAntonor: Contributed with great suggestions and encouragements.
+
 
 Game miner has been developed by Hexdump 2023
 
-Follow me on [Twiter](https://www.twitter.com/_HexDump_)
+Follow me on [Twitter](https://www.twitter.com/_HexDump_)
