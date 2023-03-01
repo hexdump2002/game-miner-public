@@ -16,6 +16,9 @@ Game Miner has been developed by me, Hexdump. You can follow me on [Twitter](htt
 # Community
 If you want to get in contact with other Game Miner users and share your suggestions, doubts or opinions you can make your way into the official Telegram channel: https://t.me/+5XEVcUO8QKk5MWRk. Main language is spanish but we welcome any other users that speak english.
 
+# Are there any tutorials about how to use Game Miner?
+Yes, it is in spanish but has subtitles for a lot of other languages and can be followed easily. The great TTconT did the tutorial and you can find it on youtube at https://youtu.be/66hIRhu2rD4 
+
 # Key Game Miner functionalities?
 - Slick user interface.
 - Support for multiple steam user accounts
@@ -36,7 +39,7 @@ Game Miner doesn't need to be installed. It is just a portable program that can 
 
 To make the app image executable you can ussually right click the appimage file and in file properties under permissions there should be a switch or checkbox to make it executable. A second option is to open a terminal window and type "chmod +x ./GameMiner.AppImage" in the folder where the AppImage was stored. This will make the AppImage executable too.
 
-Here are two pictures showing how Fedora and SteamOS/Holo OS present this option:
+Here is a picture showing how Fedora presents this option, your Distribution shoud have something similar:
 
 ![Fedora](/site_images/fedora_set_as_executable.png?raw=true "Fedora")
 <br/><br/>
