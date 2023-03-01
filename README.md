@@ -38,6 +38,7 @@ To make the app executable you can ussually right click the appimage and in file
 
 Here are two pictures showing how Fedora and SteamOS/Halo OS present this option:
 
+![Fedora](/site_images/fedora_set_as_executable.png?raw=true "Fedora")
 
 # How does Game Miner looks like?
 
