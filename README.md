@@ -34,11 +34,15 @@ If you want to get in contact with other Game Miner users and share your suggest
 # How do I install Game Miner?
 Game Miner doesn't need to be installed. It is just a portable program that can be executed from any folder you like. So, the only thing you have to do is download the latest release, make it executable and run it. Done!
 
-To make the app executable you can ussually right click the appimage and in file properties under permissions there should be a switch or checkbox to make it executable. A second option is to open a terminal window and type "chmod +x ./GameMiner.AppImage" in the folder where the AppImage was stored. This will make the AppImage executable too.
+To make the app image executable you can ussually right click the appimage file and in file properties under permissions there should be a switch or checkbox to make it executable. A second option is to open a terminal window and type "chmod +x ./GameMiner.AppImage" in the folder where the AppImage was stored. This will make the AppImage executable too.
 
 Here are two pictures showing how Fedora and SteamOS/Holo OS present this option:
 
 ![Fedora](/site_images/fedora_set_as_executable.png?raw=true "Fedora")
+
+Warning: Game Miner creates app icons when it runs for the first time. If you move he AppImage to another folder later you need to recreate the icons link. To do this just open the Game Miner settings page and click on "Remove app icons" and then "Add app icons". This will clean old icons and create new ones for the new location.
+
+![Fedora](/site_images/add_remove_icons.png?raw=true "Fedora")
 
 # How does Game Miner looks like?
 
