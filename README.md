@@ -129,6 +129,10 @@ Steam client when closed writes a bunch of configuration files to disk. It doesn
 3) Use a bluetooh keyboard.
 4) Use anydesk that can be installed through discover and use your deck from the comfort of your computer.
 
+### Source code
+
+Source code can be found at [Game Miner source code repository](https://github.com/hexdump2002/Game-Miner)
+
 ### Acknowledgements
 
 - AlbertDream: His Steamdeck suffered the initial versions of Game Miner but survivied! Contributed with great suggestions and encouragements
